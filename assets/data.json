@@ -1,0 +1,20 @@
+[
+  { "id": "1", "name": "Math", "teacher": "Mr. Smith", "room": "Room 1" },
+  { "id": "2", "name": "English", "teacher": "Ms. Johnson", "room": "Room 2" },
+  { "id": "3", "name": "Science", "teacher": "Mr. Brown", "room": "Room 3" },
+  { "id": "4", "name": "History", "teacher": "Ms. Davis", "room": "Room 4" },
+  { "id": "5", "name": "Art", "teacher": "Mr. Wilson", "room": "Room 5" },
+  { "id": "6", "name": "Music", "teacher": "Ms. Taylor", "room": "Room 6" },
+  {
+    "id": "7",
+    "name": "Physical Education",
+    "teacher": "Mr. Jackson",
+    "room": "Gym"
+  },
+  {
+    "id": "8",
+    "name": "Foreign Language",
+    "teacher": "Ms. Rodriguez",
+    "room": "Room 8"
+  }
+]

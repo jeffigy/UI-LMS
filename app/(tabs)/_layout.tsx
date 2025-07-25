@@ -16,6 +16,7 @@ const TabLayout = () => {
         headerShadowVisible: false,
         headerTitleStyle: {
           fontSize: 25,
+          fontWeight: "bold",
         },
 
         headerStyle: {
